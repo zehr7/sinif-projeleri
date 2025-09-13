@@ -5,7 +5,7 @@ Lütfen aşağıdaki adımları takip edin:
 
 ## Adımlar
 
-1. Repo’yu bilgisayarınıza clone edin:
+Adım 1: Repo’yu bilgisayarınıza clone edin:
 git clone https://github.com/caglaytar/sinif-projeleri.git
 cd sinif-projeleri
 
