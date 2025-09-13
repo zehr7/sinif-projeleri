@@ -23,6 +23,9 @@ Kendi adını taşıyan bir klasör oluştur: Ali_Kaya_Projesi/
 Tüm proje dosyalarını bu klasöre koy
 
 Adım 4: Değişiklikleri commit ve push et
+
 git add .
+
 git commit -m "Ali Kaya projemi ekledim"
+
 git push origin ali_kaya
