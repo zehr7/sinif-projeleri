@@ -8,6 +8,7 @@ Lütfen aşağıdaki adımları takip edin:
 Adım 1: Repo’yu bilgisayarınıza clone edin:
 
 git clone https://github.com/caglaytar/sinif-projeleri.git
+
 cd sinif-projeleri
 
 Adım 2: Kendi branch’ini oluştur
